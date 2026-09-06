@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+.cxx/
+cmake-build-*/
+*.apk
+*.aab
+*.so
+*.bin
+*.onnx
+*.jks
+*.keystore
+keystore.properties
+.env
